@@ -1,0 +1,170 @@
+.name{
+	font-family:Script;
+	font-size: 4em;
+	text-align: left;
+	margin:0;
+	padding:0;
+}
+.contact{
+	list-style-type: none;
+	margin:0;
+	padding:0;
+	display:inline;
+	flot:left;
+}
+a{
+	text-decoration: inherit;
+	font-style: inherit;
+	color:#000000;
+
+}
+a:hover{
+	text-decoration: underline;
+
+}
+a:visited{
+	color: purple;
+	}
+a:active{
+	text-decoration: none;
+	color:inherit;
+}
+.current{
+	text-decoration: underline;
+	text-align: center;
+
+}
+.professional{
+	text-align: center;
+	text-decoration:underline;
+}
+.summary{
+	background-color:#BCC6CC;
+	height: 110px;
+	width: 90%;
+	margin: auto;
+}
+
+div{
+	margin:0;
+	padding:0;
+}
+.employment{
+	background-color:#BCC6CC;
+	width: 90%;
+	height: 400px;
+	margin: auto;
+}
+
+.past{
+	text-decoration: underline;
+	text-align: center;
+	font-weight: normal;
+}
+h1{
+	margin: 0;
+	padding:0;
+}
+h3{
+	margin:0
+	padding:0;
+
+}
+*{
+	font-family: Georgia;
+}
+#educate {
+	text-align: center;
+	text-decoration: underline;
+	font-weight:normal;
+}
+.schools {
+	text-align:center;
+	font-weight:normal;
+	margin: 5px;
+
+}
+.title{
+	color: #249324;
+}
+#interest {
+	font-weight:normal;
+	padding: 0;
+	margin:0;
+}
+#navbar ul{
+	left: 60%;
+	margin-left: -254px;
+	list-style-type: none;
+	text-align: right;
+}
+#navbar ul li{
+	margin-top: 20px;
+	display: inline;
+	margin-top: -20px;
+
+}
+
+#header{
+	position: relative;
+	top: -10px;
+	border-top-left-radius: 15px;
+	border-top-right-radius: 15px;
+}
+.head{
+	display:inline;
+}
+#navbar ul li a{
+	text-decoration: none;
+	padding: .2em 1em;
+	color: #fff;
+	background-color: #000000;
+}
+
+#one{
+	width: 45%;
+	height: 200px;
+	float: left;
+}
+#one h1{
+	text-decoration: underline;
+	text-align: center;
+}
+
+#one ul li em{
+	color: #249324;
+}
+
+#two{
+	width: 45%;
+	float: right;
+	height: 200px;
+	display: inline-block;
+}
+
+#two h1{
+	text-decoration: underline;
+	text-align: center;
+}
+
+#two ul li em{
+	color: #249324;
+}
+.qualifications{
+	width: 90%;
+	height: 200px;
+	margin: auto;
+	padding: 10px;
+}
+.history{
+	margin: auto;
+	width: 90%;
+}
+.education{
+	margin: auto;
+	width: 90%;
+}
+.interest{
+	margin: auto;
+	width: 90%;
+}
